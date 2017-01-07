@@ -1,36 +1,55 @@
-#+TITLE: Dungeons and Dragons Campaign
+#+TITLE: Dungeons and Dragons Campaign Planning
 #+OPTIONS: html-postamble:nil
 
-* Introduction to Role Playing
+* Players
 
-A basic introduction to RP mechanics will be helpful at the start. They will
-need to start getting used to things like basic dice rolling (for some simple
-skill checks) as well as getting used to their own characters.
+** Characters at a Glance
 
-** Character Background Activity
+| *Trait* | Chris  | Dwiju | Grant |
+|---------+--------+-------+-------|
+| Name    |        |       |       |
+| Age     |        |       |       |
+| Race    | Gnome  | Elf   |       |
+| Class   | Ranger | Bard  |       |
 
-All of the characters will need to introduce themselves through some sort of
-(probably contrived) activity. The goal at this point won't necessarily be
-immersion, just getting all of our stories straight.
+** Chris
 
-** Basic NPC Interaction
+** Dwiju
 
-Once an NPC enters the mix, it will be a little more important that things be
-believeable. The group should start committing to RP while learning about skill
-checks.
+** Grant
 
-* Introduction to Combat
+* Story
 
-After introducing basic role playing, combat will be next. First, the group can
-observe a turn of combat between an NPC and an enemy, and then they will join in
-the fight.
+** Introduction to Role Playing
 
-** Watch NPC in Combat
+ A basic introduction to RP mechanics will be helpful at the start. They will
+ need to start getting used to things like basic dice rolling (for some simple
+ skill checks) as well as getting used to their own characters.
 
-This part will mostly be a "here's a quick look at what will happen" thing.
+*** Character Background Activity
 
-** Join Combat (Nonthreatening)
+ All of the characters will need to introduce themselves through some sort of
+ (probably contrived) activity. The goal at this point won't necessarily be
+ immersion, just getting all of our stories straight.
 
-Once they have their bearings, the group will roll for initiative and join in
-the combat. This combat is *not* expected to be a resource drain; it is just to
-get players used to their spells and abilities.
+*** Basic NPC Interaction
+
+ Once an NPC enters the mix, it will be a little more important that things be
+ believeable. The group should start committing to RP while learning about skill
+ checks.
+
+** Introduction to Combat
+
+ After introducing basic role playing, combat will be next. First, the group can
+ observe a turn of combat between an NPC and an enemy, and then they will join in
+ the fight.
+
+*** Watch NPC in Combat
+
+ This part will mostly be a "here's a quick look at what will happen" thing.
+
+*** Join Combat (Nonthreatening)
+
+ Once they have their bearings, the group will roll for initiative and join in
+ the combat. This combat is *not* expected to be a resource drain; it is just to
+ get players used to their spells and abilities.
