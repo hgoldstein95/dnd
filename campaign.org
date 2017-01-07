@@ -1,4 +1,4 @@
-#+TITLE: Dungeons and Dragons Campaign Planning
+#+TITLE: Campaign Planning
 #+OPTIONS: html-postamble:nil
 
 * Players
@@ -53,3 +53,9 @@
  Once they have their bearings, the group will roll for initiative and join in
  the combat. This combat is *not* expected to be a resource drain; it is just to
  get players used to their spells and abilities.
+
+* Enemies
+
+** Encounter 1: Troglodyte
+
+   [[./img/troglodyte.png]]
