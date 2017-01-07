@@ -5,12 +5,12 @@
 
 ** Characters at a Glance
 
-| *Trait* | Chris  | Dwiju | Grant |
+| /Trait/ | Chris  | Dwiju | Grant |
 |---------+--------+-------+-------|
-| Name    |        |       |       |
-| Age     |        |       |       |
-| Race    | Gnome  | Elf   |       |
-| Class   | Ranger | Bard  |       |
+| *Name*  |        |       |       |
+| *Age*   |        |       |       |
+| *Race*  | Gnome  | Elf   |       |
+| *Class* | Ranger | Bard  |       |
 
 ** Chris
 
