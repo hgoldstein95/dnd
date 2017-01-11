@@ -1,16 +1,18 @@
 #+TITLE: Campaign Planning
-#+OPTIONS: html-postamble:nil
+#+AUTHOR: Harrison Goldstein
+#+TODO: TODO MAYBE DONE
+#+OPTIONS: toc:nil html-postamble:nil
 
 * Players
-
 ** Characters at a Glance
 
-   | /Trait/ | Chris  | Dwiju | Grant |
-   |---------+--------+-------+-------|
-   | *Name*  |        |       |       |
-   | *Age*   |        | 30    |       |
-   | *Race*  | Gnome  | Elf   |       |
-   | *Class* | Ranger | Bard  |       |
+   | /Trait/     | Chris  | Dwiju | Grant   |
+   |-------------+--------+-------+---------|
+   | *Name*      |        |       |         |
+   | *Age*       |        | 30    |         |
+   | *Race*      | Gnome  | Elf   | Human   |
+   | *Class*     | Ranger | Bard  | Paladin |
+   | *Alignment* | L/G    | N/G   | C/G     |
 
 ** Chris
 
@@ -18,9 +20,7 @@
 
 ** Grant
 
-
 * Story
-
 ** Introduction to Role Playing
 
    A basic introduction to RP mechanics will be helpful at the start. They will
@@ -63,9 +63,14 @@
 
 *** TODO Quest Introduction
 
+** MAYBE Rope Trick Puzzle
+
+   The heroes enter a room filled with odd floating lights. They are not sharp
+   points of light--rather they seem distant, or dispursed. On the walls are
+   six slots. There are two baskets on the floor in the center of the room.
+   One is filled with lengths of rope, and the other filled with scrolls.
 
 * Enemies
-
 ** Encounter 1: Troglodyte
 
-   [[./img/troglodyte.png]]
+   [[../img/troglodyte.png]]
