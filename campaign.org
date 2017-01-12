@@ -6,13 +6,15 @@
 * Players
 ** Characters at a Glance
 
+   |-------------+--------+-------+---------|
    | /Trait/     | Chris  | Dwiju | Grant   |
    |-------------+--------+-------+---------|
    | *Name*      |        |       |         |
-   | *Age*       |        | 30    |         |
+   | *Alignment* | L/G    | N/G   | C/G     |
+   | *Age*       | 20     | 30    | 25      |
    | *Race*      | Gnome  | Elf   | Human   |
    | *Class*     | Ranger | Bard  | Paladin |
-   | *Alignment* | L/G    | N/G   | C/G     |
+   |-------------+--------+-------+---------|
 
 ** Chris
 
@@ -69,8 +71,3 @@
    points of light--rather they seem distant, or dispursed. On the walls are
    six slots. There are two baskets on the floor in the center of the room.
    One is filled with lengths of rope, and the other filled with scrolls.
-
-* Enemies
-** Encounter 1: Troglodyte
-
-   [[../img/troglodyte.png]]
