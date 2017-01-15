@@ -1,20 +1,18 @@
 #+TITLE: Campaign Planning
 #+AUTHOR: Harrison Goldstein
 #+TODO: TODO MAYBE DONE
-#+OPTIONS: toc:nil html-postamble:nil
+#+OPTIONS: toc:nil html-postamble:nil num:nil
 
 * Players
 ** Characters at a Glance
 
-   |-------------+--------+-------+---------|
    | /Trait/     | Chris  | Dwiju | Grant   |
    |-------------+--------+-------+---------|
    | *Name*      |        |       |         |
-   | *Alignment* | L/G    | N/G   | C/G     |
-   | *Age*       | 20     | 30    | 25      |
-   | *Race*      | Gnome  | Elf   | Human   |
    | *Class*     | Ranger | Bard  | Paladin |
-   |-------------+--------+-------+---------|
+   | *Level*     | 2      | 2     | 2       |
+   | *Race*      | Gnome  | Elf   | Human   |
+   | *Alignment* | L/G    | N/G   | C/G     |
 
 ** Chris
 
@@ -23,51 +21,56 @@
 ** Grant
 
 * Story
-** Introduction to Role Playing
+** Town
+*** Tavern
+**** Bar Fight
 
-   A basic introduction to RP mechanics will be helpful at the start. They will
-   need to start getting used to things like basic dice rolling (for some simple
-   skill checks) as well as getting used to their own characters.
+**** Receive Quest
 
-*** Character Background Activity
+*** Shops
+**** General Store
+     - Filled with ornate military figurines
+     - Posters on the wall depicting great battle scenes
+     - Get it? /General/ store?
 
-    All of the characters will need to introduce themselves through some sort of
-    (probably contrived) activity. The goal at this point won't necessarily be
-    immersion, just getting all of our stories straight.
+**** Trading Post
+     - Next door to general store
+     - They should probably buy food
 
-*** Basic NPC Interaction
+**** Tanner
+     - Hides and stuff
+     - Mostly for flavor
+     - Might come back later to get armor or clothing
 
-    Once an NPC enters the mix, it will be a little more important that things
-    be believeable. The group should start committing to RP while learning about
-    skill checks.
+**** Potion Shop (Closed)
+     - Sign on door days "Visiting Potion Convention"
 
-** Introduction to Combat
+** Journey Into Forest
+*** RP Traveling
 
-   After introducing basic role playing, combat will be next. First, the group
-   can observe a turn of combat between an NPC and an enemy, and then they will
-   join in the fight.
+*** Enter Bandit Fort
+    - Two bandits standing guard
 
-*** Watch NPC in Combat
+**** Sneak Option
+     - Sneak around bandits
+     - Failure triggers fight option
 
-    This part will mostly be a "here's a quick look at what will happen" thing.
+**** Fight Option
+     - Fight two bandits
 
-*** Join Combat (Nonthreatening)
+** Bandit Fort
+*** Capture
 
-    Once they have their bearings, the group will roll for initiative and join
-    in the combat. This combat is *not* expected to be a resource drain; it is
-    just to get players used to their spells and abilities.
+*** Time in Bandit Fort
+**** Meet Rodger
 
-** Quest: "A Relatively Annoying Problem"
+**** Watch Bandits Interacting
 
-   At this point, the party will be presented with a quest (which they will be
-   expected to take). If they do not accept the quest, I will likely need to
-   massively improvise. They'll probably take it though.
+*** Escape from Capture
 
-*** TODO Quest Introduction
+** Escape from Forest
+*** Shadow Force Attack
 
-** MAYBE Rope Trick Puzzle
+*** Shadow Force / Bandit Fight
 
-   The heroes enter a room filled with odd floating lights. They are not sharp
-   points of light--rather they seem distant, or dispursed. On the walls are
-   six slots. There are two baskets on the floor in the center of the room.
-   One is filled with lengths of rope, and the other filled with scrolls.
+*** Potential Boss Battle
