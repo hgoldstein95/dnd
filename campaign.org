@@ -4,7 +4,7 @@
 #+OPTIONS: toc:nil html-postamble:nil num:nil
 
 * Players
-** Characters at a Glance
+** Quick Look
 
    | /Trait/     | Chris  | Dwiju | Grant   |
    |-------------+--------+-------+---------|
@@ -24,8 +24,15 @@
 ** Town
 *** Tavern
 **** Bar Fight
+     - After someone orders a drink, thug bumps into them
 
 **** Receive Quest
+     - Mysterious woman, obviously rich and eccentric
+     - Starts
+       - Win: Since you can hold your own in a fight...
+       - Lose: Since no one would miss such pathetic adventurers...
+     - Asks for help saving her son from bandits
+     - Offers payment, doesn't seem overly concerned
 
 *** Shops
 **** General Store
