@@ -36,6 +36,7 @@
 **** Trading Post
      - Next door to general store
      - They should probably buy food
+     - Pick from [[file:img/gear.png][gear]]
 
 **** Tanner
      - Hides and stuff
