@@ -3,6 +3,25 @@
 #+TODO: TODO MAYBE DONE
 #+OPTIONS: toc:nil html-postamble:nil num:nil
 
+* Introduction
+** What is D&D?
+   - Role playing game
+   - Fantasy
+   - Goal is to have fun
+   - Rules are there to facilitate
+
+** Expectations
+*** Of Players
+    - No phones
+    - Try to actually stay in character
+    - Be creative
+    - Have fun
+
+*** Of Me
+    - Know the game
+    - Help you try things
+    - Other things?
+
 * Players
 ** Quick Look
 
@@ -10,69 +29,92 @@
    |-------------+--------+-------+---------|
    | *Name*      |        |       |         |
    | *Class*     | Ranger | Bard  | Paladin |
-   | *Level*     | 2      | 2     | 2       |
+   | *Level*     | 3      | 3     | 3       |
    | *Race*      | Gnome  | Elf   | Human   |
    | *Alignment* | L/G    | N/G   | C/G     |
 
 ** Chris
 
+   [[file:characters/Chris.pdf][Chris's Character Sheet]]
+
 ** Dwiju
+
+   [[file:characters/Dwiju.pdf][Dwiju's Character Sheet]]
 
 ** Grant
 
+   [[file:characters/Grant.pdf][Grant's Character Sheet]]
+
 * Story
 ** Town
+   - Blackburn
+   - Small merchant town
+   - Ruled by the Cinderbrand family
+
 *** Tavern
+    - The Painted Dog
+    - Eryk the barkeep
+      - Well mannered
+      - Not happy about fights
+
 **** Bar Fight
      - After someone orders a drink, thug bumps into them
+     - Large open area in middle of bar
 
 **** Receive Quest
-     - Mysterious woman, obviously rich and eccentric
+     - Eryk talks to the group after the fight
      - Starts
-       - Win: Since you can hold your own in a fight...
-       - Lose: Since no one would miss such pathetic adventurers...
-     - Asks for help saving her son from bandits
-     - Offers payment, doesn't seem overly concerned
+       - Win: I don't normally like fights, but you're pretty good at it...
+       - Lose: I don't appreciate troublemakers, make yourselves useful...
+     - Points to missing poster on wall, Rodger Windhelm
 
 *** Shops
+    - Any shop keeper would know which direction the bandit camp is in
+
 **** General Store
      - Filled with ornate military figurines
      - Posters on the wall depicting great battle scenes
+     - General Aaron Swordhand
+       - Salutes as they walk in
+       - Friendly and boistrous
      - Get it? /General/ store?
 
 **** Trading Post
      - Next door to general store
      - They should probably buy food
-     - Pick from [[file:img/gear.png][gear]]
+     - Kira
+       - Gnome
+       - Very pretty
+       - Father owns the shop
+       - Love interest?
+     - Pick from [[file:data/gear.png][gear]]
 
 **** Tanner
      - Hides and stuff
      - Mostly for flavor
      - Might come back later to get armor or clothing
+     - Travys
+       - Kind of a douche
+       - Has good products
 
 **** Potion Shop (Closed)
      - Sign on door days "Visiting Potion Convention"
 
-** Journey Into Forest
+** Journey To the Bandits
 *** RP Traveling
+    - Heroes will discuss ambitions
 
-*** Enter Bandit Fort
-    - Two bandits standing guard
-
-**** Sneak Option
-     - Sneak around bandits
-     - Failure triggers fight option
-
-**** Fight Option
-     - Fight two bandits
+*** Griffon Attack
+    - Sees large bones scattered around the path
+    - Hears a screech, griffon swoops down and attacks
+    - Griffon [[file:data/griffon.png][stats]]
 
 ** Bandit Fort
+   - Bandit fort is an abandoned quarry
+
 *** Capture
 
 *** Time in Bandit Fort
-**** Meet Rodger
-
-**** Watch Bandits Interacting
 
 *** Escape from Capture
 
