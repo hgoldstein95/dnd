@@ -25,17 +25,19 @@
 * Players
 ** Quick Look
 
-   | /Trait/     | Chris  | Dwiju | Grant   |
-   |-------------+--------+-------+---------|
-   | *Name*      |        |       |         |
-   | *Class*     | Ranger | Bard  | Paladin |
-   | *Level*     | 3      | 3     | 3       |
-   | *Race*      | Gnome  | Elf   | Human   |
-   | *Alignment* | L/G    | N/G   | C/G     |
+   | /Trait/     | Chris            | Dwiju | Grant   |
+   |-------------+------------------+-------+---------|
+   | *Name*      | Cruroar Cupshigh |       |         |
+   | *Class*     | Ranger           | Bard  | Paladin |
+   | *Level*     | 3                | 3     | 3       |
+   | *Race*      | Gnome            | Elf   | Human   |
+   | *Alignment* | L/G              | N/G   | C/G     |
 
 ** Chris
 
    [[file:characters/Chris.pdf][Chris's Character Sheet]]
+
+   Chris's pet [[file:data/fox.png][fox]]
 
 ** Dwiju
 
