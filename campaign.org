@@ -113,6 +113,8 @@
 
 ** Bandit Fort
    - Bandit fort is an abandoned quarry
+   - Bandit [[file:data/bandit.png][stats]]
+   - Bandit leader [[file:data/captain.png][stats]]
 
 *** Capture
 
