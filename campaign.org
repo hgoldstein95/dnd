@@ -3,6 +3,12 @@
 #+TODO: TODO MAYBE DONE
 #+OPTIONS: toc:nil html-postamble:nil num:nil
 
+* Resources
+
+  [[http://donjon.bin.sh/][Generators and Spells]]
+
+  [[file:local/Handbook.pdf][Handbook]]
+
 * Introduction
 ** What is D&D?
    - Role playing game
@@ -116,15 +122,5 @@
    - Bandit [[file:data/bandit.png][stats]]
    - Bandit leader [[file:data/captain.png][stats]]
 
-*** Capture
-
-*** Time in Bandit Fort
-
-*** Escape from Capture
-
 ** Escape from Forest
-*** Shadow Force Attack
-
-*** Shadow Force / Bandit Fight
-
-*** Potential Boss Battle
+   - Enemies described in [[file:monsters.org][monsters]]
