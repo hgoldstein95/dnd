@@ -9,6 +9,8 @@
 
   [[file:local/Handbook.pdf][Handbook]]
 
+  [[file:local/Screen.pdf][Screen]]
+
 * Introduction
 ** What is D&D?
    - Role playing game
@@ -122,5 +124,26 @@
    - Bandit [[file:data/bandit.png][stats]]
    - Bandit leader [[file:data/captain.png][stats]]
 
-** Escape from Forest
-   - Enemies described in [[file:monsters.org][monsters]]
+** Escape from Quarry
+   - Specter [[file:data/specter.png][stats]]
+     + Bestow Curse: The shadow passes through a creature. Failing a Wisdom
+       saving throw, roll a d4. While cursed:
+       1. Target has disadvantage on Wisdom saving throws.
+       2. Target has disadvantage on attack rolls against you.
+       3. Target must make a Wisdom saving throw each turn; if they fail, that
+          turn is wasted.
+       4. Your attacks and spells deal an extra 1d6 damage to the target.
+     + Minor Illusion
+     + Possess Rodger
+
+   - Ghoul [[file:data/ghoul.png][stats]]
+     + No bite
+     + Chaotic Bolt: /Ranged Weapon Attack/ +2 to hit, 1d6 + 2 necrotic damage
+
+   - Ghast [[file:data/ghast.png][stats]]
+     + No stench
+     + No turning defiance
+     + No bite
+     + Terrifying Howl: Failing a CON saving throw, enemies in a 20 foot area
+       take 1d8 psychic damage.
+     + Chaotic Bolt: /Ranged Weapon Attack/ +3 to hit, 1d8 + 3 necrotic damage
