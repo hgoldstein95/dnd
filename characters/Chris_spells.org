@@ -1,0 +1,42 @@
+#+TITLE: Chris's Spells
+#+OPTIONS: title:nil author:nil date:nil num:nil toc:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+
+* Cantrip
+** Minor Illusion
+
+   | Casting Time | 1 action |
+   | Range        | 30 feet  |
+   | Duration     | 1 minute |
+
+   Create an illusion of a sound or an object, in hopes of tricking another
+   creature. An illusion of an object cannot be larger than a 5 foot cube.
+
+* 1st Level
+** Cure Wounds
+
+   | Casting Time | 1 action      |
+   | Range        | Touch         |
+   | Duration     | Instantaneous |
+
+   Place your hands on a creature and heal 1d8 + ability modifier.
+
+** Hail of Thorns
+
+   | Casting Time | 1 bonus action                |
+   | Range        | Self                          |
+   | Duration     | Concentration, up to 1 minute |
+
+   Your next successful ranged attack creates a spray of thorns in an area. Any
+   creatures within 5 feet of the target must make a DEX saving throw. Failing
+   the throw, they take 1d10 piercing damage, succeeding they take half of that.
+
+** Hunter's Mark
+
+   | Casting Time | 1 bonus action              |
+   | Range        | 90 feet                     |
+   | Duration     | Concentration, up to 1 hour |
+
+   Mark a creature as your quarry. That creature takes 1d6 extra damage from any
+   of your attacks, and you have advantage on checks to find it. If the creature
+   dies, you can use your bonus action to mark another creature.

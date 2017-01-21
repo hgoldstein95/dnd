@@ -1,0 +1,21 @@
+#+TITLE: Grant's Spells
+#+OPTIONS: title:nil author:nil date:nil num:nil toc:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+
+* 1st Level
+** Inflict Wounds
+
+   | Casting Time | 1 action      |
+   | Range        | Touch         |
+   | Duration     | Instantaneous |
+
+   Make a melee spell attack. On hit, the target takes 3d10 necrotic damage.
+
+** Hellish Rebuke
+
+   | Casting Time | 1 reaction    |
+   | Range        | 60 feet       |
+   | Duration     | Instantaneous |
+
+   After taking damage from an enemy, deal 2d10 fire damage to that enemy on a
+   failed DEX saving throw, or half of that on a successful throw.

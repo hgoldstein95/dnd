@@ -56,7 +56,7 @@
 
 ** Actions
 
-   - Inflict Wounds: Melee spell attack for 3d10 necrotic damage.
+   - Evil Touch: Melee spell attack for 2d8 necrotic damage.
 
    -
 

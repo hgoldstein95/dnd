@@ -1,0 +1,96 @@
+#+TITLE: Dwiju's Spells
+#+OPTIONS: title:nil author:nil date:nil num:nil toc:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+
+* Cantrip
+** Mage Hand
+
+   | Casting Time | 1 action |
+   | Range        | 30 feet  |
+   | Duration     | 1 minute |
+
+   Conjure a magical floating hand that obeys your commands and can lift up to
+   10 lbs.
+
+** Light
+
+   | Casting Time | 1 action |
+   | Range        | Touch    |
+   | Duration     | 1 hour   |
+
+   Touch an object. That object glows with a bright light for the duration of
+   the spell.
+
+** Vicious Mockery
+
+   | Casting Time | 1 action      |
+   | Range        | 30 feet       |
+   | Duration     | Instantaneous |
+
+   Yell enchanted insults at an enemy. Failing a WIS saving throw, it takes
+   1d4 psychic damage and has disadvantage on its next attack roll.
+
+* 1st Level
+** Charm Person
+
+   | Casting Time | 1 action |
+   | Range        | 30 feet  |
+   | Duration     | 1 hour   |
+
+   You try to charm a humanoid in range. Failing a WIS saving throw (with
+   advantage if in combat) the enemy is charmed. While charmed, the creature is
+   friendly to you. Any harm caused to it by you or your allies breaks the
+   spell. The creature knows it was charmed when the spell ends.
+
+** Healing Word
+
+   | Casting Time | 1 bonus action |
+   | Range        | 60 feet        |
+   | Duration     | Instantaneous  |
+
+   Heal a creature in range for 1d4 + ability modifier.
+
+** Tasha's Hideous Laughter
+
+   | Casting Time | 1 action                      |
+   | Range        | 30 feet                       |
+   | Duration     | Concentration, up to 1 minute |
+
+   A creature you choose finds everything hilarious and begins laughing
+   uncontrollably. Failing a WIS saving throw, the creature falls prone.
+   Creatures with INT < 4 are uneffected.
+
+   When taking damage or on its turn, the creature can make a WIS saving
+   throw to break the spell. The throw has advantage if it is due to damage.
+
+** Thunderwave
+
+   | Casting Time | 1 action      |
+   | Range        | Self          |
+   | Duration     | Instantaneous |
+
+   Creatures in a 15 foot cube make a CON saving throw. Failing the save,
+   creatures take 2d8 thunder damage and are pushed back 10 feet. Succeeding,
+   they take half damage and are not pushed.
+
+   Objects are also thrown backwards. Damage increases by 1d8 for each slot
+   above 1st.
+
+* 2nd Level
+** Invisibility
+
+   | Casting Time | 1 action                    |
+   | Range        | Touch                       |
+   | Duration     | Concentration, up to 1 hour |
+
+   Target you touch becomes invisible until the spell ends.
+
+** Knock
+
+   | Casting Time | 1 action      |
+   | Range        | 60 feet       |
+   | Duration     | Instantaneous |
+
+   Choose a locked door, box, chest, or anything else "locked" or "stuck". That
+   object becomes unlocked or unstuck. Emits a loud knock that can be heard for
+   300 feet.
