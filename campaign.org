@@ -15,8 +15,7 @@
 ** What is D&D?
    - Role playing game
    - Fantasy
-   - Goal is to have fun
-   - Rules are there to facilitate
+   - RP and combat
 
 ** Expectations
 *** Of Players
@@ -29,17 +28,16 @@
     - Know the game
     - Help you try things
     - Other things?
-
 * Players
 ** Quick Look
 
-   | /Trait/     | Chris            | Dwiju | Grant   |
-   |-------------+------------------+-------+---------|
-   | *Name*      | Cruroar Cupshigh |       |         |
-   | *Class*     | Ranger           | Bard  | Paladin |
-   | *Level*     | 3                | 3     | 3       |
-   | *Race*      | Gnome            | Elf   | Human   |
-   | *Alignment* | L/G              | N/G   | C/G     |
+   | /Trait/     | Chris            | Dwiju                    | Grant   |
+   |-------------+------------------+--------------------------+---------|
+   | *Name*      | Cruroar Cupshigh | Irieatis Silversgleaming |         |
+   | *Class*     | Ranger           | Bard                     | Paladin |
+   | *Level*     | 3                | 3                        | 3       |
+   | *Race*      | Gnome            | Elf                      | Human   |
+   | *Alignment* | L/G              | N/G                      | C/G     |
 
 ** Chris
 
@@ -118,6 +116,11 @@
     - Sees large bones scattered around the path
     - Hears a screech, griffon swoops down and attacks
     - Griffon [[file:data/griffon.png][stats]]
+    - Talons are valuable (nature)
+    - Saddle bag from felled horse (investigation)
+      - Ring of Prestidigitation
+      - 15 gp
+      - Traveller's notes
 
 ** Bandit Fort
    - Bandit fort is an abandoned quarry
